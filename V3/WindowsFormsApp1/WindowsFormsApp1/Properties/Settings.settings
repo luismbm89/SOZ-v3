@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Encabezado1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Super Ofertas Zarcero</Value>
+    </Setting>
+    <Setting Name="Encabezado2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hermanos Rojas</Value>
+    </Setting>
+    <Setting Name="Encabezado3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tels. 8817 2886 / 8803-8177</Value>
+    </Setting>
+    <Setting Name="Encabezado4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contiguo al BCR, calle principal</Value>
+    </Setting>
+    <Setting Name="Encabezado5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zarcero</Value>
+    </Setting>
+    <Setting Name="Saludo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vuelva Pronto!</Value>
+    </Setting>
+    <Setting Name="Impresora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EPSON TM-T88VI Receipt</Value>
+    </Setting>
+    <Setting Name="IV" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="Inv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CarpetaRespaldo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\AppDataBackup</Value>
+    </Setting>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(LocalDB)\MSSQLLocalDB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
